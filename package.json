@@ -1,9 +1,8 @@
 {
-  "name": "isomorphic-router-demo",
+  "name": "isomorphic-react",
   "private": true,
   "version": "1.0.0",
-  "author": "xiaoyunyang",
-  "license": "MIT",
+  "author": "piyaa",
   "scripts": {
     "build:prod": "./node_modules/.bin/webpack --mode production",
     "build:dev": "./node_modules/.bin/webpack --mode development",
